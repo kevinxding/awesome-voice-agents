@@ -364,6 +364,7 @@ Talk to (and be talked to by) AI coding assistants like Claude Code, Cursor and 
 | [Wispr Flow](https://wisprflow.ai/) | Cloud AI dictation (Mac/Win/iOS/Android), auto-edits filler/grammar; dedicated Cursor & Windsurf extensions to tag files/run commands by voice. | 开发者最热门 AI 听写，深度集成 Cursor/Windsurf |
 | [superwhisper](https://superwhisper.com/) | Mac-only, privacy-first dictation running Whisper fully on-device; system-wide. | Mac 本地 Whisper 听写，隐私优先，离线可用 |
 | [Swifly](https://www.swifly.me/) | Cloud AI dictation and voice typing for macOS, Windows, and iPhone, with rewriting, translation, a personal dictionary, and reusable snippets. | Free Basic and paid plans; internet required; features vary by platform. |
+| [Whispek](https://whispek.com/) | AI voice dictation for Windows, macOS and Linux: hold a key, speak, and polished text appears in any app. | Free plan every 7 days; Pro available; cross-platform desktop. |
 
 ---
 
